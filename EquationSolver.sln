@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquationSolver", "EquationSolver\EquationSolver.csproj", "{A305E876-B585-4624-B4FC-A29CF067EC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A305E876-B585-4624-B4FC-A29CF067EC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A305E876-B585-4624-B4FC-A29CF067EC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A305E876-B585-4624-B4FC-A29CF067EC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A305E876-B585-4624-B4FC-A29CF067EC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE51FF9-4C6A-4EA8-92A5-971C571ABB28}
+	EndGlobalSection
+EndGlobal
